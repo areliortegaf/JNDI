@@ -1,0 +1,2 @@
+# JNDI
+JNDI con JDBC, JAVA EE
